@@ -109,26 +109,30 @@ Pós-condição:
 
 ### 5. Class Diagram
 
+Having completed the contracts it was now necessary to have a class diagram, that would list all the methods the objects created in the Domain Model would require, besides new objects, the handlers, whose existence was now necessary to, as the name says, handle each of the operations/use-cases included in the system.
+
 <p align="center">
   <img src="https://github.com/JoaoAAnjos/OOChess/blob/main/rsc/diagramaClasses.png">
 </p>
 
 ### 6. Interaction Diagrams
 
+Finally, as the last step before the beginning of the implementation of the app in Java, Interaction Diagrams were drawn up to have an even bigger detail of the system's inner workings, more specifically of each method belonging to the use case. This step was crucial in understanding and applying GRASP Patterns and principles.
+
 <p align="center">
-  <img src="diagrams-ID#1.png">
+  <img src="https://github.com/JoaoAAnjos/OOChess/blob/main/rsc/diagrams-ID%231.png">
 </p>
 <p align="center">
-  <img src="diagrams-ID#2.png">
+  <img src="https://github.com/JoaoAAnjos/OOChess/blob/main/rsc/diagrams-ID%232.png">
 </p>
 <p align="center">
-  <img src="diagrams-ID#3.png">
+  <img src="https://github.com/JoaoAAnjos/OOChess/blob/main/rsc/diagrams-ID%233.png">
 </p>
 <p align="center">
-  <img src="diagrams-ID#4.png">
+  <img src="https://github.com/JoaoAAnjos/OOChess/blob/main/rsc/diagrams-ID%234.png">
 </p>
 <p align="center">
-  <img src="diagrams-ID#5.png">
+  <img src="https://github.com/JoaoAAnjos/OOChess/blob/main/rsc/diagrams-ID%235.png">
 </p>
 
 
