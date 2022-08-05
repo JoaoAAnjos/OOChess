@@ -107,5 +107,28 @@ Pós-condição:
     *d.mensagem = mensagem
 ```
 
-### 5. Class Diagrams
+### 5. Class Diagram
+
+<p align="center">
+  <img src="https://github.com/JoaoAAnjos/OOChess/blob/main/rsc/diagramaClasses.png">
+</p>
+
+### 6. Interaction Diagrams
+
+<p align="center">
+  <img src="diagrams-ID#1.png">
+</p>
+<p align="center">
+  <img src="diagrams-ID#2.png">
+</p>
+<p align="center">
+  <img src="diagrams-ID#3.png">
+</p>
+<p align="center">
+  <img src="diagrams-ID#4.png">
+</p>
+<p align="center">
+  <img src="diagrams-ID#5.png">
+</p>
+
 
