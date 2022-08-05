@@ -135,4 +135,10 @@ Finally, as the last step before the beginning of the implementation of the app 
   <img src="https://github.com/JoaoAAnjos/OOChess/blob/main/rsc/diagrams-ID%235.png">
 </p>
 
+## Implementation
+
+A few comments regarding the project's implementation: Inside the source folder, you will find three packages, alongside with a properties file. Two of these packages (com/chavetasfechadas and net/padroesfactory) as well as the properties file "format" were given beforehand to the students; the two packages represent two different mock APIs for java discord bots, and it is decided in the properties file which of the two will be used by the program, as well as which algorithm will be used to calculate the player's elo, for which two choices also exist.
+
+
+
 
